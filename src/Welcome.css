@@ -1,0 +1,49 @@
+.items{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 25%;
+    padding: 5%;
+    margin: 2% 10%;
+}
+
+.container {
+    align-items : center;
+    margin: 7%;
+    padding-left: 37%;
+}
+
+.contain{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-left: 28% ;
+}
+
+#D{
+    background-color: red;
+    color: black;
+    text-align: center;
+    line-height: 95px;
+}
+
+#M{
+    background-color: blue;
+    color: black;
+    text-align: center;
+    line-height: 95px;
+}
+#A{
+    background-color: rgb(101, 245, 101);
+    color: black;
+    text-align: center;
+    line-height: 95px;
+}
+#Ad{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    line-height: 95px;
+}
